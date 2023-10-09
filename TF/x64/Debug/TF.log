@@ -1,0 +1,19 @@
+﻿  FormMenu.cpp
+E:\UPC\CICLO VERANO 2023-0\Algoritmos(Programacion 2)\Finales\TF-u\TF\Bacterias.h(76,1): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+E:\UPC\CICLO VERANO 2023-0\Algoritmos(Programacion 2)\Finales\TF-u\TF\Enemigo.h(84,1): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+E:\UPC\CICLO VERANO 2023-0\Algoritmos(Programacion 2)\Finales\TF-u\TF\Bala.h(31,1): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+  FormNivel2.cpp
+E:\UPC\CICLO VERANO 2023-0\Algoritmos(Programacion 2)\Finales\TF-u\TF\Bacterias.h(76,1): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+E:\UPC\CICLO VERANO 2023-0\Algoritmos(Programacion 2)\Finales\TF-u\TF\Enemigo.h(84,1): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+E:\UPC\CICLO VERANO 2023-0\Algoritmos(Programacion 2)\Finales\TF-u\TF\Bala.h(31,1): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+  LvlSelector.cpp
+E:\UPC\CICLO VERANO 2023-0\Algoritmos(Programacion 2)\Finales\TF-u\TF\Bacterias.h(76,1): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+E:\UPC\CICLO VERANO 2023-0\Algoritmos(Programacion 2)\Finales\TF-u\TF\Enemigo.h(84,1): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+E:\UPC\CICLO VERANO 2023-0\Algoritmos(Programacion 2)\Finales\TF-u\TF\Bala.h(31,1): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+  MyForm.cpp
+E:\UPC\CICLO VERANO 2023-0\Algoritmos(Programacion 2)\Finales\TF-u\TF\Bacterias.h(76,1): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+E:\UPC\CICLO VERANO 2023-0\Algoritmos(Programacion 2)\Finales\TF-u\TF\Enemigo.h(84,1): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+E:\UPC\CICLO VERANO 2023-0\Algoritmos(Programacion 2)\Finales\TF-u\TF\Bala.h(31,1): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+  Generando código...
+  Creditos.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  TF.vcxproj -> E:\UPC\CICLO VERANO 2023-0\Algoritmos(Programacion 2)\Finales\TF-u\x64\Debug\TF.exe

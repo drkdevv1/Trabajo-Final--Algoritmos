@@ -1,0 +1,55 @@
+C:\Users\José\Desktop\TF\TF\TF\x64\Debug\TF.vcxproj.AssemblyReference.cache
+C:\Users\José\Desktop\TF\TF\TF\x64\Debug\TF.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\José\Desktop\TF\TF\TF\x64\Debug\TF.MyForm.resources
+C:\Users\José\Desktop\TF\TF\TF\x64\Debug\TF.vcxproj.GenerateResource.cache
+C:\Users\José\Desktop\TF\TF\TF\x64\Debug\TF.FormMenu.resources
+C:\Users\José\Desktop\TF\TF\TF\x64\Debug\TF.Creditos.resources
+C:\Users\José\Desktop\TF\TF\TF\x64\Debug\TF.FormInstrucciones.resources
+C:\Users\Free\Desktop\Algoritmos\TF\TF\TF\x64\Debug\TF.vcxproj.AssemblyReference.cache
+C:\Users\Free\Desktop\Algoritmos\TF\TF\TF\x64\Debug\TF.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Free\Desktop\Algoritmos\TF\TF\TF\x64\Debug\TF.MyForm.resources
+C:\Users\Free\Desktop\Algoritmos\TF\TF\TF\x64\Debug\TF.vcxproj.GenerateResource.cache
+C:\Users\José\Desktop\TFxdddddddddddddddddd\TF\x64\Debug\TF.vcxproj.AssemblyReference.cache
+C:\Users\José\Desktop\TFxdddddddddddddddddd\TF\x64\Debug\TF.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\José\Desktop\TFxdddddddddddddddddd\TF\x64\Debug\TF.MyForm.resources
+C:\Users\José\Desktop\TFxdddddddddddddddddd\TF\x64\Debug\TF.vcxproj.GenerateResource.cache
+C:\Users\José\Desktop\TFxdddddddddddddddddd\TF\x64\Debug\TF.Creditos.resources
+C:\Users\José\Desktop\TFxdddddddddddddddddd\TF\x64\Debug\TF.FormInstrucciones.resources
+C:\Users\José\Desktop\TFxdddddddddddddddddd\TF\x64\Debug\TF.FormMenu.resources
+C:\Users\José\Desktop\a\TFxdddddddddddddddddd\TF\x64\Debug\TF.vcxproj.AssemblyReference.cache
+C:\Users\José\Desktop\a\TFxdddddddddddddddddd\TF\x64\Debug\TF.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\José\Desktop\a\TFxdddddddddddddddddd\TF\x64\Debug\TF.Creditos.resources
+C:\Users\José\Desktop\a\TFxdddddddddddddddddd\TF\x64\Debug\TF.FormInstrucciones.resources
+C:\Users\José\Desktop\a\TFxdddddddddddddddddd\TF\x64\Debug\TF.FormMenu.resources
+C:\Users\José\Desktop\a\TFxdddddddddddddddddd\TF\x64\Debug\TF.MyForm.resources
+C:\Users\José\Desktop\a\TFxdddddddddddddddddd\TF\x64\Debug\TF.vcxproj.GenerateResource.cache
+C:\Users\José\Desktop\a\TFxdddddddddddddddddd\TF\x64\Debug\TF.LvlSelector.resources
+C:\Users\José\Desktop\TF-u202213076\TF\x64\Debug\TF.vcxproj.AssemblyReference.cache
+C:\Users\José\Desktop\TF-u202213076\TF\x64\Debug\TF.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\José\Desktop\TF-u202213076\TF\x64\Debug\TF.Creditos.resources
+C:\Users\José\Desktop\TF-u202213076\TF\x64\Debug\TF.FormInstrucciones.resources
+C:\Users\José\Desktop\TF-u202213076\TF\x64\Debug\TF.FormMenu.resources
+C:\Users\José\Desktop\TF-u202213076\TF\x64\Debug\TF.FormNivel2.resources
+C:\Users\José\Desktop\TF-u202213076\TF\x64\Debug\TF.LvlSelector.resources
+C:\Users\José\Desktop\TF-u202213076\TF\x64\Debug\TF.MyForm.resources
+C:\Users\José\Desktop\TF-u202213076\TF\x64\Debug\TF.vcxproj.GenerateResource.cache
+C:\Users\José\Desktop\TF-u\TF\x64\Debug\TF.vcxproj.AssemblyReference.cache
+C:\Users\José\Desktop\TF-u\TF\x64\Debug\TF.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\José\Desktop\TF-u\TF\x64\Debug\TF.Creditos.resources
+C:\Users\José\Desktop\TF-u\TF\x64\Debug\TF.FormInstrucciones.resources
+C:\Users\José\Desktop\TF-u\TF\x64\Debug\TF.FormMenu.resources
+C:\Users\José\Desktop\TF-u\TF\x64\Debug\TF.FormNivel2.resources
+C:\Users\José\Desktop\TF-u\TF\x64\Debug\TF.LvlSelector.resources
+C:\Users\José\Desktop\TF-u\TF\x64\Debug\TF.MyForm.resources
+C:\Users\José\Desktop\TF-u\TF\x64\Debug\TF.vcxproj.GenerateResource.cache
+E:\UPC\CICLO VERANO 2023-0\Algoritmos(Programacion 2)\Finales\TF-u\TF\x64\Debug\TF.vcxproj.AssemblyReference.cache
+E:\UPC\CICLO VERANO 2023-0\Algoritmos(Programacion 2)\Finales\TF-u\TF\x64\Debug\TF.vcxproj.SuggestedBindingRedirects.cache
+E:\UPC\CICLO VERANO 2023-0\Algoritmos(Programacion 2)\Finales\TF-u\TF\x64\Debug\TF.Creditos.resources
+E:\UPC\CICLO VERANO 2023-0\Algoritmos(Programacion 2)\Finales\TF-u\TF\x64\Debug\TF.FormInstrucciones.resources
+E:\UPC\CICLO VERANO 2023-0\Algoritmos(Programacion 2)\Finales\TF-u\TF\x64\Debug\TF.FormMenu.resources
+E:\UPC\CICLO VERANO 2023-0\Algoritmos(Programacion 2)\Finales\TF-u\TF\x64\Debug\TF.FormNivel2.resources
+E:\UPC\CICLO VERANO 2023-0\Algoritmos(Programacion 2)\Finales\TF-u\TF\x64\Debug\TF.LvlSelector.resources
+E:\UPC\CICLO VERANO 2023-0\Algoritmos(Programacion 2)\Finales\TF-u\TF\x64\Debug\TF.MyForm.resources
+E:\UPC\CICLO VERANO 2023-0\Algoritmos(Programacion 2)\Finales\TF-u\TF\x64\Debug\TF.vcxproj.GenerateResource.cache
+E:\UPC\CICLO VERANO 2023-0\Algoritmos(Programacion 2)\Finales\TF-u\TF\x64\Debug\TF.FormDefeat.resources
+E:\UPC\CICLO VERANO 2023-0\Algoritmos(Programacion 2)\Finales\TF-u\TF\x64\Debug\TF.FormVictory.resources
